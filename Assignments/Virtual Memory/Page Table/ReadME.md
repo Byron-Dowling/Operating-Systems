@@ -10,7 +10,7 @@ Code Address (in hexadecimal)
 Where code is identified by a single digit with the following meaning:
   - 0 - address for data read
   - 1 - address for data write
-  - 2 - address for instruction fetch
+  - 2 - address for instruction fetch\
 An example of the data file contents could be 
   - 2 415130
   - 0 1010acac
