@@ -1,5 +1,5 @@
 # Project – Paged memory
-## Project description.
+## Original Project Description.
   Your assignment consists of designing and implementing a program that will analyze the use of a paged 
   memory system with 32 Kbytes of physical memory. Your program will read the file available for download 
   through D2L and identify the number of page faults and the simulated overhead time as specified below. 
