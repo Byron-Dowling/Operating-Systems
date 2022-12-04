@@ -1,4 +1,4 @@
-# Project – Paged memory
+# Project – Paged Replacement Algorithms
 ## Original Project Description.
   Your assignment consists of designing and implementing a program that will analyze the use of a paged 
   memory system with 32 Kbytes of physical memory. Your program will read the file available for download 
