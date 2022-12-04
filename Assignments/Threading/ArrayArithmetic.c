@@ -6,9 +6,9 @@
 	
 	Details:
 		- Perform the Addition of A + B
-        - Perform the Difference of A - B
-        - Perform the Product of A * B
-        - Perform the Quotient of A / B
+		- Perform the Difference of A - B
+		- Perform the Product of A * B
+		- Perform the Quotient of A / B
 
 */
 
